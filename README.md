@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Jeanpool Ferrer (ImCristal)
 
-<!--
-**ImCristal/ImCristal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Desarrollador Flutter apasionado por construir experiencias móviles únicas.  
+🎯 21 años | Enfocado en apps eficientes, limpias y visuales.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías
+- Flutter | Dart
+- Firebase | REST APIs
+- Git | Clean Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Actualmente
+- Mejorando mis habilidades en animaciones Flutter y testing.
+- Desarrollando "Mi Nubyx", app informativa conectada a SCORD.
+
+### 📫 Contacto
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- Email: tuemail@dominio.com

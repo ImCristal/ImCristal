@@ -10,7 +10,6 @@
 
 ### 🚀 Actualmente
 - Mejorando mis habilidades en animaciones Flutter y testing.
-- Desarrollando "Mi Nubyx", app informativa conectada a SCORD.
 
 ### 📫 Contacto
 - [LinkedIn](https://linkedin.com/in/tuusuario)

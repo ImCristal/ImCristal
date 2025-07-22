@@ -4,9 +4,7 @@
 🎯 21 años | Enfocado en apps eficientes, limpias y visuales.
 
 ### 🛠️ Tecnologías
-- Flutter | Dart
-- Firebase | REST APIs
-- Git | Clean Architecture
+Desarrollador Mobile Flutter | Apps Android/iOS | Firebase | UI/UX | Publicación en Play Store & App Store | Automatización de procesos con Flutter
 
 ### 🚀 Actualmente
 - Mejorando mis habilidades en animaciones Flutter y testing.

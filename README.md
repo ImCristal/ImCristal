@@ -12,5 +12,5 @@
 - Mejorando mis habilidades en animaciones Flutter y testing.
 
 ### 📫 Contacto
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- Email: tuemail@dominio.com
+- [LinkedIn](https://linkedin.com/in/jeanpoolferrer)
+- Email: 4cjeanpoolferrer@gmail.com

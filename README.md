@@ -26,7 +26,7 @@
         "De no haber sido por ti, estoy seguro que no me hubiera arriesgado a llegar hasta aquí.  
         Todo lo que soy, todo lo que he obtenido es gracias a ti y por eso estarás siempre de primera en las cosas que consiga y haga. 
         <br><br>
-        Seguiré cumpliendo esa promesa por la que estamos peleando tan arduamente y si la distancia duele entre los dos, creemos un mundo en donde estemos tú y yo...
+        Seguiré cumpliendo esa promesa por la que estamos peleando tan arduamente y si la distancia duele entre los dos, crearemos un mundo en donde estemos tú y yo...
         <b>Solo tú y yo~</b> 🤍✨"  
       </blockquote>
     </td>

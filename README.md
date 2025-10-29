@@ -82,7 +82,9 @@
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.nubyx.mynubyx)
   [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/mi-nubyx/id6738610863)
 
-- **Fiberlux App** → Muy cercano 🚀  
+- **Fiberlux App**
+  [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.fiberlux.app&hl=es-419)
+  
 - **Lux** → Muy pronto ✨
 
 <a id="sobre-mi"></a>
@@ -92,13 +94,13 @@
 > Soy **Jeanpool Ferrer**, desarrollador mobile con experiencia en **Flutter, Dart, Firebase y Android/Kotlin**. Me apasiona crear soluciones **eficientes, escalables y fáciles de usar**. También me adapto a distintas tecnologías, pero mi foco es el desarrollo mobile multiplataforma. La idea de llevar una app en tu dispositivo, incluso sin conexión, me sigue fascinando al día de hoy.  
 
 Actualmente estoy trabajando en:
-- 🚀 Preparando el lanzamiento de **Fiberlux App** con Flutter y Firebase.  
 - 📚 Profundizando en **arquitectura limpia en Flutter**.  
 - 🌍 Primeros pasos de una app propia para Play Store.  
 - 💻 Construyendo mi portafolio web.
 
 <a id="ultimos-logos"></a>
 ## 📌 Últimos logros
+- 29/10/25 | Lanzamiento oficial de **Fiberlux App** en Google Play
 - 08/09/25 | Luz verde para lanzar la nueva **Fiberlux App** a las tiendas móviles oficiales.
 - 10/07/25 | Certificado del DMC Institute: **Desarrollador Móvil Android**.  
   👉 [Ver certificado](https://certificado.dmc.pe/17642/68a76f97eed13)

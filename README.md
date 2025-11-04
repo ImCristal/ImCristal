@@ -84,6 +84,7 @@
 
 - **Fiberlux App**    
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.fiberlux.app&hl=es-419)
+  [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/fiberlux-app/id6754546726)
   
 - **Lux** → Muy pronto ✨
 
@@ -100,6 +101,7 @@ Actualmente estoy trabajando en:
 
 <a id="ultimos-logos"></a>
 ## 📌 Últimos logros
+- 4/11/25  | Lanzamiento oficial de **Fiberlux App** en App Store
 - 29/10/25 | Lanzamiento oficial de **Fiberlux App** en Google Play
 - 08/09/25 | Luz verde para lanzar la nueva **Fiberlux App** a las tiendas móviles oficiales.
 - 10/07/25 | Certificado del DMC Institute: **Desarrollador Móvil Android**.  

@@ -69,6 +69,15 @@
 
 </div>
 
+
+<a id="ultimos-logos"></a>
+## 📌 Últimos logros
+- 4/11/25  | Lanzamiento oficial de **Fiberlux App** en App Store
+- 29/10/25 | Lanzamiento oficial de **Fiberlux App** en Google Play
+- 08/09/25 | Luz verde para lanzar la nueva **Fiberlux App** a las tiendas móviles oficiales.
+- 10/07/25 | Certificado del DMC Institute: **Desarrollador Móvil Android**.  
+  👉 [Ver certificado](https://certificado.dmc.pe/17642/68a76f97eed13)
+
 <a id="indice"></a>
 ## 📄 Índice
 - [Sobre mí](#sobre-mi)
@@ -99,13 +108,6 @@ Actualmente estoy trabajando en:
 - 🌍 Primeros pasos de una app propia para Play Store.  
 - 💻 Construyendo mi portafolio web.
 
-<a id="ultimos-logos"></a>
-## 📌 Últimos logros
-- 4/11/25  | Lanzamiento oficial de **Fiberlux App** en App Store
-- 29/10/25 | Lanzamiento oficial de **Fiberlux App** en Google Play
-- 08/09/25 | Luz verde para lanzar la nueva **Fiberlux App** a las tiendas móviles oficiales.
-- 10/07/25 | Certificado del DMC Institute: **Desarrollador Móvil Android**.  
-  👉 [Ver certificado](https://certificado.dmc.pe/17642/68a76f97eed13)
 
 <a id="tecnologias"></a>
 ## 🛠️ Tecnologías principales

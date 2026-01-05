@@ -72,6 +72,7 @@
 
 <a id="ultimos-logos"></a>
 ## 📌 Últimos logros
+- 5/01/26  | Lanzamiento oficial de **Mi ZaaZ Perú** en Google Play
 - 4/11/25  | Lanzamiento oficial de **Fiberlux App** en App Store
 - 29/10/25 | Lanzamiento oficial de **Fiberlux App** en Google Play
 - 08/09/25 | Luz verde para lanzar la nueva **Fiberlux App** a las tiendas móviles oficiales.
@@ -89,11 +90,14 @@
 ## 🚀 Proyectos en producción
 - **Mi Nubyx**  
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.nubyx.mynubyx)
-  [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/mi-nubyx/id6738610863)
+  [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/mi-nubyx/id6738610863)ZZ
 
 - **Fiberlux App**    
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.fiberlux.app&hl=es-419)
   [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/fiberlux-app/id6754546726)
+
+  - **Mi ZaaZ Perú**  
+  [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.zaaz.mizaaz)
   
 - **Lux** → Muy pronto ✨
 

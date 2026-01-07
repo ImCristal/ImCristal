@@ -92,17 +92,19 @@
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.nubyx.mynubyx)
   [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/mi-nubyx/id6738610863)
   <br>
-  <img src="assets/MiNubyxBanner.png" alt="Banner personal" />
+  <img src="assets/MiNubyxBanner.png" alt="Banner_Mi_Nubyx.png" />
   
 
 - **Fiberlux App**    
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.fiberlux.app&hl=es-419)
   [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/fiberlux-app/id6754546726)
     <br>
-  <img src="assets/FiberluxAppBanner.png" alt="Banner personal" />
+  <img src="assets/FiberluxAppBanner.png" alt="Banner_Fiberlux_App.png" />
 
 - **Mi ZaaZ Perú**  
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.zaaz.mizaaz)
+  <br>
+  <img src="assets/MiZaaZBanner.png" alt="Banner_Mi_ZaaZ_Perú.png" />
   
 <a id="sobre-mi"></a>
 ## 🙋‍♂️ Sobre mí

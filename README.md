@@ -89,8 +89,8 @@
 <a id="proyectos"></a>
 ## 🚀 Proyectos en producción
 - **Mi Nubyx**  
-  [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.nubyx.mynubyx)
-  [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/pe/app/mi-nubyx/id6738610863)
+  [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7426991105927294976/?originTrackingId=dhPJtyl9HkqDwahP5sgKSQ%3D%3D)
+  [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7426991105927294976/?originTrackingId=dhPJtyl9HkqDwahP5sgKSQ%3D%3D)
   <br>
   <img src="assets/MiNubyxBanner.png" alt="Banner_Mi_Nubyx.png" />
   

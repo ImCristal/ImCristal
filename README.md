@@ -103,6 +103,7 @@
 
 - **Mi ZaaZ Perú**  
   [![Disponible en Play Store](https://img.shields.io/badge/Disponible%20en-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.zaaz.mizaaz)
+  [![Disponible en App Store](https://img.shields.io/badge/Disponible%20en-App%20Store-blue?logo=app-store&style=for-the-badge)](https://apps.apple.com/us/app/mi-zaaz-peru/id6757314972)
   <br>
   <img src="assets/MiZaaZBanner.png" alt="Banner_Mi_ZaaZ_Perú.png" />
   
